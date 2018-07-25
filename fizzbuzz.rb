@@ -8,3 +8,5 @@ def fizzbuzz(number)
   else
   end
 end
+
+fizzbuzz (12)
